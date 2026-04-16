@@ -19,9 +19,15 @@ Machine Learning, LLM Chatbots, Pandas, Sklearns, NLTK, PyTesseract, Data Pipeli
 
 ## 🚀 Projects
 
-### AI Evolution Project
-- Designed and trained AI models to categorize aerospace parts based on shape features, improving decision-making process.  
-- Researched and experimented with multiple ML methodologies to optimize results.  
+### [OverSyntaxed](https://github.com/Uffy-oo/OverSyntaxed.git)
+- Developed an immersive narrative-driven game that teaches Java through a “cooking-by-code” mechanic, turning programming tasks into interactive challenges
+- Built a sandboxed environment for real-time Java code execution, enabling hands-on learning within gameplay
+- Combined technical learning with a layered psychological storyline to make complex concepts more engaging and memorable
+
+### [Echo](https://github.com/shengyi-z/Echo.git)
+- Built an AI-powered planning system that transforms complex long-term goals into structured, actionable roadmaps
+- Integrated persistent memory (Backboard.io) to enable continuous tracking, milestone breakdown, and adaptive guidance over time
+- Designed to bridge planning and execution by providing proactive reminders and maintaining alignment between goals and real-world progress
 
 ### [GameShare Hub](https://github.com/McGill-ECSE321-Winter2025/project-group-7.git)  
 - Full-stack board game sharing platform with event management and community reviews.  
